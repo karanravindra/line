@@ -1,0 +1,9 @@
+{
+	"name": "line",
+	"description": "A project planning app",
+	"private": true,
+	"packageManager": "pnpm@8.15.6",
+	"devDependencies": {
+		"turbo": "^2.5.6"
+	}
+}
